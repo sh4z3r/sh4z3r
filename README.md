@@ -2,8 +2,9 @@
 
 My name is Sh4z3r.
 
-## Interest
+## Current Projects
 
+* AI
 * DevSecOps & AppSec
 * Cloud Security
 
