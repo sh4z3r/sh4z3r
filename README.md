@@ -15,14 +15,14 @@ I use this space to **build, experiment, learn, and share** — with a current f
 🤖 AI-assisted workflows & automation
 🧪 Labs, PoCs, and things I'm learning by building
 
-## 🗂️ My GitHub history
+## 🗂️ My GitHub
 
-**[sh4z3r](https://github.com/sh4z3r)** — my current public portfolio.
+I use two GitHub accounts for different purposes:
 
-**[jorgeiteng](https://github.com/jorgeiteng)** — my original GitHub account, with projects and experiments from earlier stages of my technical journey.
+* 🛡️ **[sh4z3r](https://github.com/sh4z3r)** — Cybersecurity, AppSec, Cloud Security, DevSecOps, AI, and personal-brand projects.
+* 🛠️ **[jorgeiteng](https://github.com/jorgeiteng)** — Software development, infrastructure, cloud, automation, and general technical projects.
 
-**Both accounts are mine.**
-`jorgeiteng` is my technical history; `sh4z3r` is my current portfolio.
+**Both accounts are mine — different focus, same journey.**
 
 ---
 
