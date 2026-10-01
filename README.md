@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jorge Mayorga — aka **Sh4z3r**
 
-🔐 **Cybersecurity & AppSec** · ☁️ **Cloud** · 🛠️ **DevSecOps** · 🤖 **Practical AI**
+🔐 **Cybersecurity** · ☁️ **Cloud** · 🛠️ **DevSecOps & AppSec** · 🤖 **Practical AI**
 
 Cybersecurity professional and Tech Lead with **17+ years of experience** across security, infrastructure, cloud, and application security.
 
