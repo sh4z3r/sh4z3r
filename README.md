@@ -19,8 +19,8 @@ I use this space to **build, experiment, learn, and share** — with a current f
 
 I use two GitHub accounts for different purposes:
 
-* 🛡️ **[sh4z3r](https://github.com/sh4z3r)** — Cybersecurity, AppSec, Cloud Security, DevSecOps, AI, and personal-brand projects.
-* 🛠️ **[jorgeiteng](https://github.com/jorgeiteng)** — Software development, infrastructure, cloud, automation, and general technical projects.
+* 🛡️ **[sh4z3r](https://github.com/sh4z3r)** — Cybersecurity, AppSec, Cloud Security, DevSecOps and AI.
+* 🛠️ **[jorgeiteng](https://github.com/jorgeiteng)** — Software development PoCs, infrastructure, cloud, automation, and personal technical projects.
 
 **Both accounts are mine — different focus, same journey.**
 
