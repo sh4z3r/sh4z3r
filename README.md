@@ -27,3 +27,6 @@ I use two GitHub accounts for different purposes:
 ---
 
 💼 [LinkedIn](https://www.linkedin.com/in/jmayorga/) · 🌐 [Website](https://sh4z3r.gitbook.io/)
+
+📬 **Reach me on Telegram:** [t.me/sh4z3r](https://t.me/sh4z3r)
+
