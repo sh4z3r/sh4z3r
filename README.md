@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Sh4z3r.
+My name is Jorge Mayorga aka Sh4z3r.
 
 ## Current Projects
 
